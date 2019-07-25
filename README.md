@@ -1,5 +1,6 @@
 # Email-tracker
-Email Tracker allows you to send emails and track those emails to see if they were opened or not. If they were opened, you can see their IP address , user agent, Location, Time of opening etc.
+This is Pixel based email tracking
+Email Tracker allows you to send emails and track those emails to see if they were opened or not, their IP address , user agent, Location, Time of opening etc.
 
 How to:
 
